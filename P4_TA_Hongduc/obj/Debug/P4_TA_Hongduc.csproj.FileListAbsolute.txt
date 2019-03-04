@@ -1,0 +1,25 @@
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe.config
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.pdb
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csprojResolveAssemblyReference.cache
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csproj.CoreCompileInputs.cache
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.exe
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.pdb
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\Puissance4_GUI.dll
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe.config
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.pdb
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\Puissance4_GUI.dll
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csprojResolveAssemblyReference.cache
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csproj.CoreCompileInputs.cache
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.exe
+D:\Documents\ESILV\Année 1\Semestre 1\Complément de formation\A3 Programmation\TD\TD 7-8\Zone de test\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.pdb
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe.config
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.exe
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\P4_TA_Hongduc.pdb
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\bin\Debug\Puissance4_GUI.dll
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csprojAssemblyReference.cache
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csproj.CoreCompileInputs.cache
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.csproj.CopyComplete
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.exe
+D:\Puissance 4\P4_TA_Hongduc\P4_TA_Hongduc\obj\Debug\P4_TA_Hongduc.pdb
